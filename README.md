@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-0x01. Shell, permissions
+This project tests the use of shell permissions
